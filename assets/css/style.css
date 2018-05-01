@@ -1,0 +1,44 @@
+body {
+    font-size: 18px;
+    font-family: "ABeeZee", sans-serif;
+    text-align: center;
+    background-image: url(../images/blurgreen.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    background-color: hsl(183, 60%, 26%, 0.70);
+}
+
+header {
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 800;
+    background-color: hsl(183, 60%, 26%, 0.70);
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.animal {
+    margin: 5px;
+    font-size: 20px;
+}
+
+.gif {
+    margin: 10px;
+}
+
+#add-animal {
+    margin-bottom: 10px;
+}
+
+#imgs {
+    display: inline-block;
+    margin: 20px;
+    background-color: #1B676B;
+}
