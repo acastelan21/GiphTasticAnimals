@@ -1,1 +1,2 @@
 # GiphTasticAnimals
+## Press any of the animal buttons to display ten gifs of that animal. Click on gif to play and pause. To add your favorite animal just type it into the "Add an Animal" text box and press the "Add Animal" button.
